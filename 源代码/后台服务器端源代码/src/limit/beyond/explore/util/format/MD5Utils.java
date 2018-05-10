@@ -1,4 +1,4 @@
-﻿package limit.beyond.explore.util.format;
+package limit.beyond.explore.util.format;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;

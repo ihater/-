@@ -1,4 +1,4 @@
-﻿function Calendar(objName){		
+function Calendar(objName){		
 this.style = {
 borderColor       		: "#909eff", //边框颜色
 headerBackColor    		: "#97d645", //表头背景颜色909EFF
